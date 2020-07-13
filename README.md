@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```lisp
 (defvar my-languages
   (list (list "English" "Chinese" "German" "Janpanese")
