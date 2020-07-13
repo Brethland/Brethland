@@ -10,7 +10,8 @@
   (list "Type Theory" "Algebra" "Compiler" "Classical Music" "Logic" "Anime" "Literature"))
   
 (defvar my-pronouns
-  (cond ((eql you "Chinese") "Yang")
+  (list (cond ((eql you "Chinese") "Yang")
         ((eql you "Japanese") "Yuki")
-        (t "Brethland")))
+        (t "Brethland"))
+        "He/Him?"))
 ```
