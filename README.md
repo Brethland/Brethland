@@ -8,7 +8,7 @@
         (list "Common Lisp" "C++" "Rust" "Coq" "Haskell" "Scheme" "Agda")))
         
 (defvar my-address
-  ((lambda (x y z) (concatenate 'string "mailto:" y z x)) "@gmail.com" "ycy" "1207694344"))
+  ((lambda (x y z) (concatenate 'string "mailto:" y z x)) "@gmail.com" "breth" "land"))
   
 (defvar my-interests
   (list "Type Theory" "Algebra" "Compiler" "Logic"))
