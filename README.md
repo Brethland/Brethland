@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brethland&layout=compact" />
-
 ```lisp
 (defvar my-languages
   (list (list "English" "Chinese" "German" "Janpanese")
@@ -25,3 +23,5 @@ I am currently working on a Private Tracker site called [SOPT](https://github.co
 I was once a member of NJUPT SAST, you can find some useful works [here](https://github.com/NJUPT-SAST-Technology-Center).
 
 I may be slow to reply, but any suggestions and questions are welcomed!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brethland&layout=compact" />
