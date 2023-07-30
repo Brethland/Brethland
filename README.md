@@ -7,7 +7,7 @@
   ((lambda (x y z) (concatenate 'string "mailto:" y x z)) "@typ" "i" ".moe"))
   
 (defvar my-interests
-  (list "Homotopy Type Theory" "Algebra" "Mathematical Logic"))
+  (list "Type Theory" "Algebraic Geometry" "Mathematical Logic"))
 ```
 
 ## My Toys
@@ -19,8 +19,8 @@
 You may find some parts of [this repo](https://github.com/Brethland/LEARNING-STUFF) interesting.
 
 ## Current
-- Studying Mathematics in 2nd Semester
+- Studying Mathematics in 3rd Semester
 - Looking for research chances and interns
-- She/her, 🏳️‍⚧️
+- Trans girl, 🏳️‍⚧️
 
-I may be slow to reply, but feel free to write to me.
+May be slow to reply, but feel free to write to me.
